@@ -24,7 +24,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Junior Web - developer <img src="https://media.giphy.com/media/l44Ql1aJFFtdExHEc/giphy-downsized-large.gif" width="30"> from Russia.
+I am a Web - developer <img src="https://media.giphy.com/media/l44Ql1aJFFtdExHEc/giphy-downsized-large.gif" width="30"> from Russia.
 - :man_student: I am studying on the GeekBrains educational platform. I study Frontend and Backend web application development.
 
 - :zap: In my free time, I read articles and web development news, watch thematic channels on Youtube, Telegram and other resources.
