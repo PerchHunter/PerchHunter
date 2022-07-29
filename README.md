@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
   <div id="badges">
   <a href="https://vk.com/speedcuber_67rus">
     <img src="https://img.shields.io/badge/Vkontakte-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
